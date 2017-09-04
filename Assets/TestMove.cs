@@ -35,7 +35,7 @@ public class TestMove : MonoBehaviour {
 
     void BranhTest()
     {
-        Debug.Log("브랜치 테스트1");
+        Debug.Log("브랜치 테스트11");
     }
 
     IEnumerator TestMoving()
