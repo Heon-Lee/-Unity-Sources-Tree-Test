@@ -33,6 +33,11 @@ public class TestMove : MonoBehaviour {
         Debug.Log("커밋 테스트1");
     }
 
+    void BranhTest()
+    {
+        Debug.Log("브랜치 테스트1");
+    }
+
     IEnumerator TestMoving()
     {
         int count = 0;
