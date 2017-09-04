@@ -42,6 +42,10 @@ public class TestMove : MonoBehaviour {
     {
         Debug.Log("브랜치의 머지");
     }
+    void TestMerge()
+    {
+        Debug.Log("마스터의 머지");
+    }
 
     IEnumerator TestMoving()
     {
