@@ -38,6 +38,11 @@ public class TestMove : MonoBehaviour {
         Debug.Log("브랜치 테스트11");
     }
 
+    void BranchMerge()
+    {
+        Debug.Log("브랜치의 머지");
+    }
+
     IEnumerator TestMoving()
     {
         int count = 0;
