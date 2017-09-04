@@ -28,6 +28,11 @@ public class TestMove : MonoBehaviour {
 		
 	}
 
+    void TestOne()
+    {
+        Debug.Log("커밋 테스트1");
+    }
+
     IEnumerator TestMoving()
     {
         int count = 0;
