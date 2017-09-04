@@ -33,6 +33,11 @@ public class TestMove : MonoBehaviour {
         Debug.Log("커밋 테스트1");
     }
 
+    void TestMerge()
+    {
+        Debug.Log("마스터의 머지");
+    }
+
     IEnumerator TestMoving()
     {
         int count = 0;
